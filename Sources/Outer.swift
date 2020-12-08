@@ -8,7 +8,7 @@
 import Foundation
 
 public struct Utils {
-    static func log() {
+    public static func log() {
         print("This is a Outer log.")
     }
 }
